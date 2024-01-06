@@ -10,7 +10,7 @@ export const Bio = {
     linkedin: "https://www.linkedin.com/in/tanmay-sharma-3131bb1a0/",  
     github: "https://github.com/tanmay316",
   resume:
-    "https://drive.google.com/file/d/1cRwaSd7KnVw-JRUHWGoiYynjolJu8VTI/view?usp=sharing",
+    "https://drive.google.com/file/d/1Y3RUT9jqQF4WYhlK_i6W6ctQsuUZu_wc/view",
   
   twitter: "https://twitter.com/tms_43",
 };
